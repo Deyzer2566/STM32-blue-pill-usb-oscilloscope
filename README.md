@@ -23,3 +23,5 @@
 2. определить номер её COM-порта
 3. в файле display.py во 2 строке поменять название порта на ваше
 4. запустить файл display.py с помощью Python'а
+
+![alt text](https://github.com/Deyzer2566/STM32-blue-pill-usb-oscilloscope/blob/main/example.jpg)
